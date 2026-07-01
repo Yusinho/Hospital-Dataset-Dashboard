@@ -250,7 +250,7 @@ All figures below were recalculated directly from the 15-row source dataset to v
 
 **Yusuf Shotunde**
 *Data Analyst — Excel, Power Query, Power BI*
-*(LinkedIn / GitHub)*
+*(Linkedin- www.linkedin.com/in/yusuf-shotunde / Github- https://github.com/Yusinho)*
 
 ---
 
