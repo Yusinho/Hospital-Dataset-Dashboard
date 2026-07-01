@@ -249,8 +249,8 @@ All figures below were recalculated directly from the 15-row source dataset to v
 ## 👤 Author
 
 **Yusuf Shotunde**
-*Data Analyst — Excel, Power Query, Power BI*
-*(Linkedin- www.linkedin.com/in/yusuf-shotunde / Github- https://github.com/Yusinho)*
+*Data Analyst — Excel, Power Query, Power BI, SQL, Phython*
+*(Linkedin: www.linkedin.com/in/yusuf-shotunde / Github: https://github.com/Yusinho / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
 
 ---
 
