@@ -242,7 +242,7 @@ All figures below were recalculated directly from the 15-row source dataset to v
 2. Open `Yusuf_Shotunde-_Hospital_Dataset_Dashboard_Analysis.xlsx` in **Microsoft Excel** (Power Query and PivotTables require Excel; a view-only copy is also available via Google Sheets)
 3. Navigate between the **QUESTIONS**, **SOURCE DATA**, **PIVOT TABLE**, and **DASHBOARD** sheet tabs to see the full analytical trail
 4. Use the **Payment Method / Department** slicers (left) and **Gender / Emergency Admission / Age** slicers (right) on the Dashboard tab to filter all visuals interactively
-5. **Live/shareable copy:** [Google Sheets link](https://docs.google.com/spreadsheets/d/1_t2t6kfKhho_6Py1Q9zi-yCdl_48uA06/edit?usp=sharing)
+5. **Link to dataset, pivot tables and dashboard:** https://docs.google.com/spreadsheets/d/1_t2t6kfKhho_6Py1Q9zi-yCdl_48uA06/edit?usp=sharing&ouid=114789390801938857186&rtpof=true&sd=true
 
 ---
 
@@ -250,7 +250,7 @@ All figures below were recalculated directly from the 15-row source dataset to v
 
 **Yusuf Shotunde**
 *Data Analyst — Excel, Power Query, Power BI*
-*(Add LinkedIn / GitHub / portfolio links here)*
+*(LinkedIn / GitHub)*
 
 ---
 
